@@ -1,7 +1,11 @@
 //OMNINET UNRESTRICTED ACCESS:::
+
 //SUBJECT:::
+
 //HIKARU "MIRAGE" SUKO...
+
 //FOUND:::
+
 //DISPLAYING DOSSIER:::
 
 Name: Hikaru Suko
