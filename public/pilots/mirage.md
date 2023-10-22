@@ -1,12 +1,8 @@
->//OMNINET UNRESTRICTED ACCESS:::
-
->//SUBJECT:::
-
->//HIKARU "MIRAGE" SUKO...
-
->//FOUND:::
-
->//DISPLAYING DOSSIER:::
+//OMNINET UNRESTRICTED ACCESS:::
+//SUBJECT:::
+//HIKARU "MIRAGE" SUKO...
+//FOUND:::
+//DISPLAYING DOSSIER:::
 
 Name: Hikaru Suko
 Callsign: Mirage
@@ -22,4 +18,4 @@ At the age of twenty-four she'd found herself recruited into the Golden Hand, a 
 
 Broken(?) Her contract, it's then the promising pilot shifted away from company work, instead seeking the challenging life as a freelancer.
 
->//END:::
+//END:::
