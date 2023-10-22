@@ -1,0 +1,5 @@
+'Muninn' is a person born very recently-- About a year ago. Because that's what happens when you join the Mirrorsmoke Mercenary Company. They wipe your former identity off the map, so that all those bad reasons you joined up to escape don't follow you to your new home. Or at least, so they don't get in the way of the job.
+
+But while this has become a mainstay tradition of the MSMC, not everyone who joins up necessarily requires these services-- There are plenty of legitimate reasons that make enlistment attractive to people with nothing to flee, not the least of which is MSMC's longstanding general license contracts with GMS and IPS-N. For a young, ambitious pilot, Mirrorsmoke offers one of the cheapest and most accessible routes to attaining mech certification.
+
+Muninn's public-facing profile only specifies that she is a Junior Contractor, the lowest, entry level rank of the MSMC. There is no mention of a 'Vojteschka', and there is a vast ocean of people across the omninet with that name alone.
