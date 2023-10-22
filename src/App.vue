@@ -142,7 +142,7 @@ export default {
         "headerTitle": "UNION NAVY",
         "headerSubtitle": "AUXILIARY SQUAD",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Star-Two",
       },
       "options":{
         "eventsMarkdownPerMission": true
