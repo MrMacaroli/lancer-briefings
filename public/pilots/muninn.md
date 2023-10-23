@@ -2,4 +2,4 @@
 
 But while this has become a mainstay tradition of the MSMC, not everyone who joins up necessarily requires these services-- There are plenty of legitimate reasons that make enlistment attractive to people with nothing to flee, not the least of which is MSMC's longstanding general license contracts with GMS and IPS-N. For a young, ambitious pilot, Mirrorsmoke offers one of the cheapest and most accessible routes to attaining mech certification.
 
-Muninn's public-facing profile only specifies that she is a Junior Contractor, the lowest, entry level rank of the MSMC. There is no mention of a 'Vojteschka', and there is a vast ocean of people across the omninet with that name alone.
+Muninn's public-facing profile only specifies that she is a Junior Contractor, the lowest, entry level rank of the MSMC. Her unit is the MSMC 501st Detachment, The One-Eyed Foxes, led by Subcommander Gerrard. There is no mention of a 'Vojteschka', and there is a vast ocean of people across the omninet with that name alone.
